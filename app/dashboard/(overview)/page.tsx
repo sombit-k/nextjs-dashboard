@@ -10,8 +10,9 @@ import {
   CardsSkeleton,
 } from '@/app/ui/skeletons';
 import CardWrapper from '@/app/ui/dashboard/cards';
-
+export const experimental_ppr = true;
 export default async function Page() {
+  
 
   return (
     <main>
